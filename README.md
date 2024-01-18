@@ -19,6 +19,13 @@ To deploy this project on Linux, run
 ```bash
   wine cmd.exe /c "ruta/del/archivo.bat"
 ```
+## Variables
+
+To run this project, you will need to add the following variables to your DownloadPriceList file
+
+| Name          | Default Value | Description                                                       |
+| ---           | ---           | ---                                                               |
+| token         |               | Credential to prove the identity of a user                        |
 
 ## Support
 
