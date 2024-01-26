@@ -26,7 +26,6 @@ Conjunto de instrucciones para la descarga automatizada del catálogo de precios
 **Obtener token**
 1. Inicia sesión en la plataforma de https://nb.com.ar/
 2. En la sección de mi cuenta, dirigete al apartado de mis credenciales https://nb.com.ar/miCuenta/credenciales
-3. Te aparecerá una dirección como esta https://webapi.nb.com.ar/v1/priceListExcel/a0123456789 el token es el último número de la ruta (a0123456789)
 
 ## Configuración del Script de Programación 
 `downloadPriceList_schedule.bat`
